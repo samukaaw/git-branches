@@ -5,6 +5,6 @@ public class Cliente {
     private String cpf;
     private int agencia;
     private double saudar;
-
+    private double saldo;
 
 }
